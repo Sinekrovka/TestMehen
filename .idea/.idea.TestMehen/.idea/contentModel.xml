@@ -234,11 +234,20 @@
             </e>
           </e>
         </e>
-        <e p="Scenes" t="Include">
+        <e p="ScriptableObject" t="Include">
           <e p="Scripts" t="Include">
-            <e p="Components" t="Include">
-              <e p="Ball.cs" t="Include" />
-              <e p="MovingPlatform.cs" t="Include" />
+            <e p="LevelConfigFiles.cs" t="Include" />
+            <e p="LevelsPaleteColor.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Components" t="Include">
+            <e p="Ball.cs" t="Include" />
+            <e p="PlatformMovement.cs" t="Include" />
+          </e>
+          <e p="Sytems" t="Include">
+            <e p="GameState" t="Include">
+              <e p="LevelBuilder.cs" t="Include" />
             </e>
           </e>
         </e>

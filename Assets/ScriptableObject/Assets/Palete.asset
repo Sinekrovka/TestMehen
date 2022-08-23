@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 700804619c6c66e4a86c7c1cbbe3cde5, type: 3}
+  m_Name: Palete
+  m_EditorClassIdentifier: 
+  _paleteList:
+  - color: {r: 0.5932598, g: 0.25787643, b: 0.8962264, a: 1}
+    audio: {fileID: 8300000, guid: b5687c5b6e0190d469131aa0044b252b, type: 3}
+  - color: {r: 0.9811321, g: 0.76686496, b: 0.19900322, a: 1}
+    audio: {fileID: 8300000, guid: b8d6ca9c0913fe446bb45138e2a80224, type: 3}
+  - color: {r: 0.27140963, g: 0.735849, b: 0.13536847, a: 1}
+    audio: {fileID: 8300000, guid: a0e9b5a6b25063d44ada0b80d90ef821, type: 3}
+  - color: {r: 0.504717, g: 0.8121339, b: 1, a: 1}
+    audio: {fileID: 8300000, guid: a549a1a71119a194a8012c82a21f45f0, type: 3}
+  - color: {r: 0.8584906, g: 0.11743506, b: 0.25930494, a: 1}
+    audio: {fileID: 8300000, guid: f3aebff15a2971c49bac005a7bc5bc9b, type: 3}
